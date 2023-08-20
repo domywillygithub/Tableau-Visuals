@@ -16,6 +16,7 @@ Explore visualizations across diverse domains, including finance, Human resource
 
 # 🔗 Connect with Me:
 I'm passionate about data visualization and am excited to connect with fellow Tableau enthusiasts, data analysts, and potential collaborators. Feel free to reach out with any questions, feedback, or collaboration opportunities.
+
 [WhatsApp](https://api.whatsapp.com/send?phone=255737932005&text=Hello%2C%20I%20am%20Dominic%20William%20Mahamba%2C%20how%20may%20I%20help%20you%20today%F0%9F%98%8A): +255 737 932 005
 
 [Email](mailto:mahambadominic0@gmail.com): Mahambadominic0@gmail.com
